@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'https://wollino.ch/images/i1.jpgcracy in the 21st Century',
+          title: 'Democracy in the 21st Century',
           description:
             'Democracy in the 21st Century ist ein datenjournalistisches Webprojekt, das die Entwicklung demokratischer Systeme weltweit visualisiert und analysiert. Mithilfe interaktiver Grafiken und statistischer Auswertungen werden historische Trends, globale Unterschiede sowie der Zusammenhang zwischen Demokratie und gesellschaftlichem Wohlstand dargestellt. Das Projekt kombiniert modernes Webdesign mit Datenvisualisierung, um komplexe politische Entwicklungen verständlich und ansprechend aufzubereiten.',
           imageUrl:
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Website for Wollino store',
           description:
-            'This is a website for the woolstore WOllino of my mother. I built and now maintain the webisite',
+            'This is a website for the woolstore Wollino of my mother. I built and now maintain the website',
           imageUrl:
             'https://wollino.ch/images/i1.jpg',
           link: 'https://wollino.ch/',      
