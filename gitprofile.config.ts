@@ -54,37 +54,37 @@ const CONFIG = {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
-  ],
+skills: [
+  'Python',
+  'C',
+  'C++',
+  'R',
+  'PyTorch',
+  'TensorFlow',
+  'Scikit-learn',
+  'XGBoost',
+  'Transformers',
+  'Time-Series Analysis',
+  'NLP',
+  'Computer Vision',
+  'Pandas',
+  'NumPy',
+  'Matplotlib',
+  'Jupyter',
+  'Git',
+  'Docker',
+  'Weights & Biases',
+  'Linux',
+],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Code Camp Switzerland',
+      position: 'Head Teacher',
+      from: 'September 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://en.codecampworld.ch/',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+
   ],
   certifications: [
     {
@@ -114,24 +114,7 @@ const CONFIG = {
     },
   ],
   publications: [
-    {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
@@ -201,7 +184,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/LehmannFabian/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
