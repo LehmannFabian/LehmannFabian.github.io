@@ -43,28 +43,12 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Fabian Lehmann', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
+    linkedin: 'www.linkedin.com/in/fabian-lehmann-6440b3252',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    discord: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
     phone: '',
-    email: '',
+    email: 'fabianlehmann01@bluewin.ch',
   },
   resume: {
     fileUrl:
@@ -104,22 +88,27 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+
     },
   ],
   educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      {
+      institution: 'University of Bern',
+      degree: 'MSc Artificial Intelligence in Medicine',
+      from: '2025',
+      to: '2027',
     },
+    
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'University of Applied Science Lucerne (HSLU)',
+      degree: 'BSc Artificial Intelligence and Machine Learning',
+      from: '2022',
+      to: '2025',
+    },
+
+    {
+      institution: 'Login in cooperation with RhB (Rhatian Railway)',
+      degree: 'Automatiker (Automation Technician) EFZ',
       from: '2012',
       to: '2014',
     },
