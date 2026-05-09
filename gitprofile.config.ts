@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025', 'LehmannFabian/belka_prediction_challenge'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025', 'LehmannFabian/belka_prediction_challenge','aveliyath/i2c'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,7 +52,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://lehmannfabian.github.io/src/assets/lebenslauf_fabian_lehmann_git', // Empty fileUrl will hide the `Download Resume` button.
+      'https://lehmannfabian.github.io/src/assets/lebenslauf_fabian_lehmann_git.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
 skills: [
   'Python',
