@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'LehmannFabianarifszn', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -43,7 +43,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Fabian Lehmann', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Fabian Lehmann', description: 'JR. AI & Machine Learning Engineer | MDeep Learning & Computer Vision Enthusiast', imageURL: '' },
   social: {
     linkedin: 'www.linkedin.com/in/fabian-lehmann-6440b3252',
     behance: '',
@@ -51,7 +51,7 @@ const CONFIG = {
     email: 'fabianlehmann01@bluewin.ch',
   },
   resume: {
-    fileUrl:
+    fileUrl:AI & Machine Learning Engineer | Medical Imaging Researcher | Deep Learning & Computer Vision Enthusiast
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
 skills: [
