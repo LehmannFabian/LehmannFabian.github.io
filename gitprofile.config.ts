@@ -46,7 +46,7 @@ const CONFIG = {
             'This is a website for the woolstore WOllino of my mother. I built and now maintain the webisite',
           imageUrl:
             'https://wollino.ch/images/i1.jpg',
-          link: 'https://wollino.ch/',www.wollino.ch/',      
+          link: 'https://wollino.ch/',      
           
         },
       ],
