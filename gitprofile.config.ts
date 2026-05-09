@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Democracy in the 21st Century',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Democracy in the 21st Century ist ein datenjournalistisches Webprojekt, das die Entwicklung demokratischer Systeme weltweit visualisiert und analysiert. Mithilfe interaktiver Grafiken und statistischer Auswertungen werden historische Trends, globale Unterschiede sowie der Zusammenhang zwischen Demokratie und gesellschaftlichem Wohlstand dargestellt. Das Projekt kombiniert modernes Webdesign mit Datenvisualisierung, um komplexe politische Entwicklungen verständlich und ansprechend aufzubereiten.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://lehmannfabian.github.io/democracy_21st/grafiken/change_over_last_years_improved.png',
+          link: 'https://lehmannfabian.github.io/democracy_21st/',
         },
       ],
     },
