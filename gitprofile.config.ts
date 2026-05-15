@@ -1,4 +1,6 @@
 // gitprofile.config.ts
+
+
 const CONFIG = {
   github: {
     username: 'LehmannFabian', // Your GitHub org/user name. (This is the only required config)
@@ -58,6 +60,7 @@ const CONFIG = {
     phone: '',
     email: 'fabianlehmann01@bluewin.ch',
   },
+  //file in public
   resume: {
     fileUrl:
       'https://lehmannfabian.github.io/lebenslauf_aut_mit_foto.pdf', // Empty fileUrl will hide the `Download Resume` button.
