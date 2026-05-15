@@ -61,7 +61,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://lehmannfabian.github.io/lebenslauf_fabian_lehmann_git.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://lehmannfabian.github.io/lebenslauf_aut_mit_foto.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
 skills: [
   'Python',
