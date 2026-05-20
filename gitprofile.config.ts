@@ -26,7 +26,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025', 'LehmannFabian/belka_prediction_challenge','LehmannFabian/TFT_recommender','LehmannFabian/AI4MedicalTimeSeries,'aveliyath/i2c'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025', 'LehmannFabian/belka_prediction_challenge','LehmannFabian/TFT_recommender','LehmannFabian/AI4MedicalTimeSeries','aveliyath/i2c'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
