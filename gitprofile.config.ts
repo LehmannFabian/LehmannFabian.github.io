@@ -26,7 +26,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025', 'LehmannFabian/belka_prediction_challenge','LehmannFabian/TFT_recommender','LehmannFabian/AI4MedicalTimeSeries','aveliyath/i2c'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jmontoyaz/hslu_weakly_segmentation_lehmann_2025','LehmannFabian/Finance_compliance_rag', 'LehmannFabian/belka_prediction_challenge','aveliyath/i2c'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -53,7 +53,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Fabian Lehmann', description: 'JR. AI & Machine Learning Engineer | MDeep Learning & Computer Vision Enthusiast', imageURL: '' },
+  seo: { title: 'Portfolio of Fabian Lehmann', description: 'JR. AI & Machine Learning Engineer | Deep Learning & Computer Vision Enthusiast', imageURL: '' },
   social: {
     linkedin: 'www.linkedin.com/in/fabian-lehmann-6440b3252',
     behance: '',
