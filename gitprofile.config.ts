@@ -97,11 +97,7 @@ skills: [
     },
 
   ],
-  certifications: [
-    {
-
-    },
-  ],
+  certifications: [],
   educations: [
       {
       institution: 'University of Bern',
