@@ -35,9 +35,8 @@ const CONFIG = {
       projects: [
         {
           title: 'Democracy in the 21st Century',
-          description:
-'Democracy in the 21st Century is a data journalism web project that visualizes and analyzes the development of democratic systems worldwide. Using interactive graphics and statistical analyses, it illustrates historical trends, global differences, and the connection between democracy and societal prosperity. The project combines modern web design with data visualization to present complex political developments in an understandable and engaging way.'          imageUrl:
-            'https://lehmannfabian.github.io/democracy_21st/grafiken/change_over_last_years_improved.png',
+          description: 'Democracy in the 21st Century is a data journalism web project that visualizes and analyzes the development of democratic systems worldwide. Using interactive graphics and statistical analyses, it illustrates historical trends, global differences, and the connection between democracy and societal prosperity. The project combines modern web design with data visualization to present complex political developments in an understandable and engaging way.',      
+          imageUrl: 'https://lehmannfabian.github.io/democracy_21st/grafiken/change_over_last_years_improved.png',
           link: 'https://lehmannfabian.github.io/democracy_21st/',
         },
         {
