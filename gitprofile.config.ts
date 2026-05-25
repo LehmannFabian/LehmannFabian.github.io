@@ -63,7 +63,7 @@ const CONFIG = {
     fileUrl:
       'https://lehmannfabian.github.io/lebenslauf_aut_mit_foto.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-skills: [
+skills: {[
 'Python',
 'C++',
 'R',
@@ -80,7 +80,7 @@ skills: [
 'Weights & Biases',
 'Linux',
 'AWS'
-]
+]},
   experiences: [
     {
       company: 'Code Camp Switzerland',
